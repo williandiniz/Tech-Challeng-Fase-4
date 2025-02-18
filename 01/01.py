@@ -192,7 +192,7 @@ def transcribe_audio_whisper(video_path, output_text_path):
         video.close()
         
         # Transcrever usando Whisper
-        result = model.transcribe(temp_audio_path, language="pt")
+        result = model.transcribe(temp_audio_path, language="en")
         
         # Salvar transcrição
         with open(output_text_path, 'w', encoding='utf-8') as f:
