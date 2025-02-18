@@ -1,0 +1,60 @@
+Resumo de Emoções, Atividades e Anomalias
+=========================================
+
+Total de frames analisados: 3326
+
+Emoções detectadas:
+😐 neutral:
+  - Ocorrências: 180 vezes
+  - Porcentagem: 22.81% do total de emoções detectadas
+  - Confiança média: 80.88%
+😢 sad:
+  - Ocorrências: 154 vezes
+  - Porcentagem: 19.52% do total de emoções detectadas
+  - Confiança média: 76.63%
+😠 angry:
+  - Ocorrências: 109 vezes
+  - Porcentagem: 13.81% do total de emoções detectadas
+  - Confiança média: 83.64%
+😨 fear:
+  - Ocorrências: 89 vezes
+  - Porcentagem: 11.28% do total de emoções detectadas
+  - Confiança média: 76.70%
+😊 happy:
+  - Ocorrências: 184 vezes
+  - Porcentagem: 23.32% do total de emoções detectadas
+  - Confiança média: 89.57%
+😲 surprise:
+  - Ocorrências: 70 vezes
+  - Porcentagem: 8.87% do total de emoções detectadas
+  - Confiança média: 84.64%
+🤢 disgust:
+  - Ocorrências: 3 vezes
+  - Porcentagem: 0.38% do total de emoções detectadas
+  - Confiança média: 60.48%
+
+Atividades detectadas:
+🧍 standing:
+  - Ocorrências: 276 vezes
+  - Porcentagem: 32.90% do tempo
+🤝 handshake:
+  - Ocorrências: 145 vezes
+  - Porcentagem: 17.28% do tempo
+🙌 both_hands_raised:
+  - Ocorrências: 8 vezes
+  - Porcentagem: 0.95% do tempo
+🧘 sitting:
+  - Ocorrências: 410 vezes
+  - Porcentagem: 48.87% do tempo
+
+Anomalias detectadas:
+⚠️ desequilibrio:
+  - Ocorrências: 100 vezes
+  - Porcentagem: 3.01% dos frames
+⚠️ postura_anormal:
+  - Ocorrências: 104 vezes
+  - Porcentagem: 3.13% dos frames
+
+Frames sem emoções detectadas:
+  - Quantidade: 2537
+  - Porcentagem: 76.28% do total de frames

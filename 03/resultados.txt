@@ -1,0 +1,32 @@
+Resumo de Emoções, Atividades e Anomalias
+=========================================
+
+Total de frames analisados: 3326
+
+Emoções detectadas:
+
+Atividades detectadas:
+🧍 standing:
+  - Ocorrências: 993 vezes
+  - Porcentagem: 39.74% do tempo
+🤝 handshake:
+  - Ocorrências: 366 vezes
+  - Porcentagem: 14.65% do tempo
+🙌 both_hands_raised:
+  - Ocorrências: 17 vezes
+  - Porcentagem: 0.68% do tempo
+🧘 sitting:
+  - Ocorrências: 1123 vezes
+  - Porcentagem: 44.94% do tempo
+
+Anomalias detectadas:
+⚠️ desequilibrio:
+  - Ocorrências: 305 vezes
+  - Porcentagem: 9.17% dos frames
+⚠️ postura_anormal:
+  - Ocorrências: 221 vezes
+  - Porcentagem: 6.64% dos frames
+
+Frames sem emoções detectadas:
+  - Quantidade: 3326
+  - Porcentagem: 100.00% do total de frames
